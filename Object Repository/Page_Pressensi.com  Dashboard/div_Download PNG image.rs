@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Download PNG image</name>
+   <tag></tag>
+   <elementGuidId>7e2b4c82-b29d-4fad-a23b-99acd13ee43a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='highcharts-rukp16u-0']/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4b09f9a0-b285-4add-9dc6-926bef168177</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>highcharts-menu-item</value>
+      <webElementGuid>b8275e93-b71b-4454-b516-66d8e3d1f4dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Download PNG image</value>
+      <webElementGuid>4fa24f4d-147e-4f3a-acad-6864fa285371</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;highcharts-rukp16u-0&quot;)/div[@class=&quot;highcharts-contextmenu&quot;]/div[@class=&quot;highcharts-menu&quot;]/div[@class=&quot;highcharts-menu-item&quot;]</value>
+      <webElementGuid>c41fc7a3-d87c-4ee7-bd92-80aa4ed67b9f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='highcharts-rukp16u-0']/div/div/div[2]</value>
+      <webElementGuid>0483a9bb-e915-4f67-83b7-2f9e34b4c6ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print chart'])[1]/following::div[1]</value>
+      <webElementGuid>f1dea7f4-296e-4b59-8dfe-4b7a31e23d65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Highcharts.com'])[1]/following::div[4]</value>
+      <webElementGuid>346c9379-4be8-46c0-abcd-6bceb772f11d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download JPEG image'])[1]/preceding::div[1]</value>
+      <webElementGuid>f7b9eec4-fef9-491e-ae10-bce3aac8fd84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download PDF document'])[1]/preceding::div[2]</value>
+      <webElementGuid>8e1229d5-f9c6-46fc-87af-604dbe6a1fab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Download PNG image']/parent::*</value>
+      <webElementGuid>7403fc14-159d-484d-bafe-56c582e52c33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>c2698913-3670-41f7-8d84-6cf4dd79096c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Download PNG image' or . = 'Download PNG image')]</value>
+      <webElementGuid>2f05f07d-c571-4fbd-ba26-59dc09c66533</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

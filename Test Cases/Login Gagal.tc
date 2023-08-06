@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login gagal dengan username / password salah</description>
+   <name>Login Gagal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>822b78cf-b41b-4269-b50d-3d9a0203542e</testCaseGuid>
+</TestCaseEntity>
